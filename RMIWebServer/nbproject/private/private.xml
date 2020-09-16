@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/admin/Desktop/Eclectics/RMIWebServer/src/java/com/servlet/CalVegetableCost.java</file>
+            <file>file:/Users/admin/Desktop/Eclectics/RMIWebServer/src/java/com/servlet/CalculateCost.java</file>
+            <file>file:/Users/admin/Desktop/Eclectics/RMIWebServer/src/java/com/servlet/DeleteVegetablePrice.java</file>
+            <file>file:/Users/admin/Desktop/Eclectics/RMIWebServer/src/java/com/rmi_interface_impl/VegetableComputeEngine.java</file>
+            <file>file:/Users/admin/Desktop/Eclectics/RMIWebServer/src/java/com/servlet/UpdateVegetablePrice.java</file>
+            <file>file:/Users/admin/Desktop/Eclectics/RMIWebServer/src/java/com/servlet/AddVegetablePrice.java</file>
+            <file>file:/Users/admin/Desktop/Eclectics/RMIWebServer/src/java/com/start_server/VegetableComputeTaskRegistry.java</file>
+            <file>file:/Users/admin/Desktop/Eclectics/RMIWebServer/src/java/com/rmi_interface/Compute.java</file>
+        </group>
+    </open-files>
+</project-private>
